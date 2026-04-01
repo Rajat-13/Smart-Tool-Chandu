@@ -35,7 +35,43 @@ This data is **not transmitted to our servers** and remains only on your device.
 
 ---
 
-## 3. Advertising
+## 3. Government Data Disclaimer (IMPORTANT)
+
+Smart Tool Chandu is NOT a government app.
+
+We are not affiliated with, authorized by, endorsed by, or officially connected to any government entity.
+The app only provides publicly available information for user convenience.
+Users should always verify information from official government websites.
+
+---
+
+## 4. Source of Government Information
+
+The app may display information sourced from official public websites including but not limited to:
+
+https://www.incometaxindia.gov.in
+https://www.gst.gov.in
+https://www.cbic.gov.in
+https://www.irs.gov
+https://www.gov.uk
+
+These links are provided within the app wherever applicable.
+
+We do not claim ownership of any government data.
+
+---
+
+## 5. Accuracy of Information
+
+While we strive to keep information accurate and up to date:
+
+We do not guarantee completeness or accuracy
+Government rules and tax laws may change
+Users must verify details from official sources
+
+---
+
+## 6. Advertising
 
 We use third-party advertising services such as Google AdMob to display ads.
 
@@ -52,7 +88,7 @@ For more information, please review:
 
 ---
 
-## 4. Permissions
+## 7. Permissions
 
 The App may request certain permissions depending on features used:
 
@@ -64,7 +100,7 @@ These permissions are used strictly for app functionality and not for unauthoriz
 
 ---
 
-## 5. Data Security
+## 8. Data Security
 
 We value your trust in providing us your information. We strive to use commercially acceptable means of protecting it.
 
@@ -72,7 +108,7 @@ However, no method of transmission over the internet or electronic storage is 10
 
 ---
 
-## 6. Children's Privacy
+## 9. Children's Privacy
 
 Our App does not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children.
 
@@ -80,7 +116,7 @@ If we discover that a child has provided us with personal information, we will i
 
 ---
 
-## 7. Third-Party Services
+## 10. Third-Party Services
 
 The App may use third-party services that may collect information:
 
@@ -91,7 +127,7 @@ These services operate under their own privacy policies.
 
 ---
 
-## 8. Changes to This Privacy Policy
+## 11. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time.
 
@@ -99,7 +135,7 @@ We advise users to review this page periodically for any changes.
 
 ---
 
-## 9. Contact Us
+## 12. Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us:
 
@@ -107,6 +143,6 @@ Email: rajat.personal.saha@gmail.com
 
 ---
 
-## 10. Consent
+## 13. Consent
 
 By using our App, you hereby consent to our Privacy Policy and agree to its terms.
