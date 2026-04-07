@@ -106,6 +106,8 @@ We value your trust in providing us your information. We strive to use commercia
 
 However, no method of transmission over the internet or electronic storage is 100% secure.
 
+Quit Smoking data is stored locally and never shared externally.
+
 ---
 
 ## 9. Children's Privacy
